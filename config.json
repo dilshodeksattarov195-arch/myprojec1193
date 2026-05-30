@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smspecrypt",
+        "uuid": 10365977,
+        "checksum": "qfqfee"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
